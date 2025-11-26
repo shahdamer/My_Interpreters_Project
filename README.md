@@ -1,6 +1,6 @@
 # 🧩 My Interpreters Project — MiniFun & MiniTyFun (OCaml)
 
-This repository contains two interpreters for small functional languages implemented in **OCaml**, developed as part of the *Languages, Compilers and Interpreters* course at the **University of Pisa (2024/2025)**.
+This repository contains two interpreters for small functional languages implemented in OCaml, developed as part of the *Languages, Compilers and Interpreters* course during the first semester of the Master’s in Computer Science (Software Program) at the **University of Pisa (2024/2025)**.
 
 ---
 
