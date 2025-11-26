@@ -1,0 +1,12 @@
+(lang dune 3.17)
+(name MiniFun-Interpreter)
+(using menhir 2.0)
+
+(package
+ (name MiniFun-Interpreter)
+ (synopsis "A short synopsis")
+ (description "A longer description")
+ (depends ocaml dune ocamllex menhir ppx_deriving)
+ (allow_empty)
+ (tags
+  (topics "to describe" your project)))

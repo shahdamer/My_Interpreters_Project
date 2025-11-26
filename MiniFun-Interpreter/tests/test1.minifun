@@ -1,0 +1,4 @@
+def main with input x output y as
+let x= x in
+let y = false in
+x and not y

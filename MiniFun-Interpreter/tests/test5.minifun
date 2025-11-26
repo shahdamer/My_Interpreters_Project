@@ -1,0 +1,5 @@
+def main with input x output y as
+letfun sum x = 
+  if x < 1 then 0
+  else x + sum (x - 1)
+in sum x

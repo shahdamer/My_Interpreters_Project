@@ -1,0 +1,7 @@
+def main with input x output y as
+   letfun fact x =
+  if x < 2 then
+    1
+  else
+    x * fact (x-1)
+in fact x

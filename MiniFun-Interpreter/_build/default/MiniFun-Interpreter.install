@@ -1,0 +1,4 @@
+lib: [
+  "_build/install/default/lib/MiniFun-Interpreter/META"
+  "_build/install/default/lib/MiniFun-Interpreter/dune-package"
+]

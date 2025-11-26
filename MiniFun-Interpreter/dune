@@ -1,0 +1,15 @@
+(ocamllex
+ (modules minifun_lexer)
+)
+
+(menhir
+ (modules minifun_parser)
+(flags -la 2)
+)
+
+
+(executable
+ (name main)
+ (flags -w -27)
+(modules core minifun_parser minifun_lexer main)
+ )

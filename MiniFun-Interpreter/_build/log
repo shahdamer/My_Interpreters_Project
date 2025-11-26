@@ -1,0 +1,18 @@
+# dune exec ./main.exe ./tests/test6.minifun
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location:
+# C:\Users\shahd.SHAHDLAP\AppData\Local\Microsoft\Windows\INetCache\dune\db
+# Workspace root:
+# "C:\\Users\\shahd.SHAHDLAP\\Desktop\\LCI-Lab\\ShahdAmerProject\\Interpreters\\MiniFun-Interpreter"
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ C:\Users\shahd.SHAHDLAP\AppData\Local\opam\default\bin\ocamlc.opt.exe -config > C:\Users\SHAHD~1.SHA\AppData\Local\Temp\dune_97bbee_output

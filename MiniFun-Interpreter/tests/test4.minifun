@@ -1,0 +1,4 @@
+def main with input x output y as
+let f = fun x => x + 1 in
+let g = fun y => y * 2 in
+f (g x)
